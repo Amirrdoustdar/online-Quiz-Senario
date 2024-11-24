@@ -36,6 +36,8 @@ To run this application, you need the following:
     ├── quiz.json              # Quiz questions and answers
     ├── security_question.json # Security questions for password recovery
     ├── main.py                # Main Python script (this file)
+
+    
 ## How to Run the Application
 
 1. Install Python 3.x (if not installed).
